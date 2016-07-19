@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/betsydupuis/boostrap-3-flex/issues"
   },
-  "homepage": "https://github.com/betsydupuis/boostrap-3-flex#readme"
+  "homepage": "https://github.com/betsydupuis/boostrap-3-flex#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
 }
